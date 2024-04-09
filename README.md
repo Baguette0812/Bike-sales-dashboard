@@ -15,3 +15,6 @@ The following are the steps taken to get the data sheet from start to finish
 - Used find an replace to change 10+ Miles into More than 10 miles in the Commute Distance column
 - Removed gridlines from the Dashboard sheet and built the dashboard using the pivot table charts
 - Created slicers for Marital Status, Region, and Education to work on all charts in the dashboard
+
+### Dashboard
+![Dashboard](https://github.com/Baguette0812/Bike-sales-dashboard/assets/106466704/6feb3fee-3116-4309-bdff-662a39242abb)
