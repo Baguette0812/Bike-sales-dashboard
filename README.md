@@ -17,4 +17,5 @@ The following are the steps taken to get the data sheet from start to finish
 - Created slicers for Marital Status, Region, and Education to work on all charts in the dashboard
 
 ### Dashboard
-![Dashboard](https://github.com/Baguette0812/Bike-sales-dashboard/assets/106466704/6feb3fee-3116-4309-bdff-662a39242abb)
+
+![Dashboard](https://github.com/Baguette0812/Bike-sales-dashboard/assets/106466704/7a5758fb-415b-4e20-a1e3-174f34432a4c)
