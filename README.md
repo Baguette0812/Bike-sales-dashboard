@@ -1,7 +1,7 @@
 # Bike-sales-dashboard
 
 ### Task
-Clean the data and create an interactive dashboard which covers potential key information.
+Clean the data in excel and create an interactive dashboard which covers potential key information.
 
 ### Steps Taken
 The following are the steps taken to get the data sheet from start to finish
