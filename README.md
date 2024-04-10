@@ -1,7 +1,10 @@
 # Bike-sales-dashboard
 
 ### Task
-Clean the data in excel and create an interactive dashboard which covers potential key information.
+Clean the data and create an interactive dashboard which covers potential key information.
+
+### Tools
+- Excel - View [xlsx file](https://github.com/Baguette0812/Bike-sales-dashboard/blob/main/Bike-sales-dashboard.xlsx)
 
 ### Steps Taken
 The following are the steps taken to get the data sheet from start to finish
